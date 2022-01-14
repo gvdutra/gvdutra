@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 👯 &nbsp;I’m looking to collaborate on open source project!\
-✉️ &nbsp;You can shoot me an email at gvdutra@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at gvdutra@gmail.com! I'll try to respond as soon as I can.
 
 <!--📄 &nbsp;Please have a look at my [Résumé](https://test) for more details about me. I'm open to feedback and suggestions! -->
 
